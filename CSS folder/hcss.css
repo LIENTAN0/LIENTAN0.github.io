@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    zoom: 100;
 }
 
 #img {
@@ -283,4 +284,12 @@ p {
     margin: auto;
     text-align: center;
     color: #ffffff;
+}
+
+#container a {
+    color: white;
+}
+
+#about a {
+    color: white;
 }
