@@ -1,0 +1,286 @@
+body {
+    background-color: black;
+}
+
+#img {
+    display: flex;
+}
+
+#topnav {
+    display: flex;
+    background-color: #000000;
+    max-width: 1024px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+/* Navbar links */
+#topnav div a {
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-top: -60px;
+    display: flex;
+}
+
+/* Links - change color on hover */
+#topnav a:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+
+#button {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    display: flex;
+    max-width: 120px;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid white;
+}
+
+
+#button:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+
+#img2 {
+    margin-left: -10px;
+}
+
+#container {
+    position: relative;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+
+#center {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 30px;
+    color: #ffffff;
+
+}
+
+#about {
+    position: relative;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    color: #ffffff;
+    border-bottom: 1px solid rgb(255, 255, 255)
+}
+
+#word {
+    position: absolute;
+    top: 6%;
+    left: 10%;
+    color: #ffffff;
+
+}
+
+
+h1 {
+    max-width: 700px;
+    display: flex;
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+
+#more {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    display: flex;
+    max-width: 50px;
+    font-size: 15px;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid white;
+    text-align: center;
+}
+
+
+#more:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+
+#gallerytitle {
+    color: white;
+    display: flex;
+    max-width: 1024px;
+    margin: auto;
+    text-align: center;
+}
+
+#galh1 {
+    margin-left: 700px;
+    margin-top: 40px;
+}
+
+
+#more2 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    display: flex;
+    max-width: 50px;
+    font-size: 15px;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 730px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    justify-content: right;
+    text-decoration: none;
+}
+
+
+#more2:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+
+#bottomnav {
+    background-color: #000000;
+    max-width: 1024px;
+    margin: auto;
+    justify-content: right;
+    border-top: 1px solid white;
+    display: flex;
+    text-decoration: none;
+}
+
+/* Navbar links */
+#bottomnav div a {
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+    text-decoration: none;
+    margin-top: 40px;
+
+}
+
+
+
+#gallery1 {
+    max-width: 1360px;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+#gallery2 {
+    max-width: 1360px;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+#street {
+    position: relative;
+    margin: auto;
+    color: #ffffff;
+}
+
+#sword {
+    position: absolute;
+    bottom: -34px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+#crowd {
+    position: relative;
+    margin: auto;
+    color: #ffffff;
+}
+
+#cword {
+    position: absolute;
+    bottom: -31px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+#art {
+    position: relative;
+    margin: auto;
+    color: #ffffff;
+}
+
+#aword {
+    position: absolute;
+    bottom: -33px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+}
+
+#model {
+    position: relative;
+    margin: auto;
+    color: #ffffff;
+}
+
+#mword {
+    position: absolute;
+    bottom: -34px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+#dinamic {
+    position: relative;
+    margin: auto;
+    color: #ffffff;
+}
+
+#dword {
+    position: absolute;
+    bottom: -31px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+#building {
+    position: relative;
+    margin: auto;
+    color: #ffffff;
+}
+
+#bword {
+    position: absolute;
+    bottom: -33px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+}

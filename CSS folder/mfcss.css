@@ -1,0 +1,117 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#img {
+    display: flex;
+}
+
+#topnav {
+    display: flex;
+    background-color: #000000;
+    max-width: 1024px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+
+#topnav div a {
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-top: -60px;
+    display: flex;
+}
+
+#topnav a:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+
+
+
+#bottomnav {
+    background-color: #000000;
+    max-width: 1024px;
+    margin: auto;
+    justify-content: right;
+    border-top: 1px solid white;
+    display: flex;
+    text-decoration: none;
+}
+
+
+#bottomnav div a {
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+    text-decoration: none;
+    margin-top: 40px;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#myfv {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+#container1 {
+    max-width: 880px;
+    margin: auto;
+    background-color: white;
+    color: black;
+    display: flex;
+}
+
+#word1 {
+    max-width: 400px;
+    padding: 20px;
+}
+
+#gallery {
+    max-width: 1024px;
+    margin: auto;
+}
+
+#h3 {
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+}
+
+#photo {
+    max-width: 1024px;
+    margin: auto;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+
+#photoo {
+    max-width: 1024px;
+    margin: auto;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
